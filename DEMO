@@ -1,0 +1,14 @@
+Steps for Adding of  Local Rpo To Remote Repo
+
+Create a Local Dir and Check the Status of this dir whether it is a Local git repo or not.
+
+It is not Local repo 
+
+To init our dir to git dir for this to run below cmd 
+
+ >git init
+
+=======>D:\JavaScript_Practice\JavaScript_Practice\GIT_DEMO>git init
+Initialized empty Git repository in D:/JavaScript_Practice/JavaScript_Practice/GIT_DEMO/.git/
+
+After to check status of local Repo
